@@ -1,0 +1,13 @@
+# Ignore autosave/cache files
+*.idlk
+*.indd
+*.indb
+*.pdf
+*.tiff
+*.tif
+*.jpg
+*.jpeg
+*.eps
+*.zip
+*.ai
+*.psd
