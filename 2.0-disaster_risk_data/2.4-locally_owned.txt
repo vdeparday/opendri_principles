@@ -1,0 +1,3 @@
+## 4. Locally Owned
+Wherever possible risk information should be managed at the scale that it describes. In other words, OpenDRI projects usually seek to work with local governments to manage city level data, national governments to take responsibility for country level data, and so forth. This ensures that the primary user base for this data is involved in its ongoing maintenance. Global data platforms run the risk of marginalizing potential users at national and subnational levels. Local management of risk data also contributes to building necessary capacity for its use and management. 
+///Example: Malawi Spatial Data Working Group///

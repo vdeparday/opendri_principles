@@ -1,0 +1,5 @@
+# Other Resources
++ .Digital Development Principles - http://digitalprinciples.org/
++ .Open Data in a Big Data World -  http://www.icsu.org/science-international/accord/open-data-in-a-big-data-world-short 
++ .Open Data: Unlocking Innovation and Performance With Liquid Information - http://www.mckinsey.com/business-functions/business-technology/our-insights/open-data-unlocking-innovation-and-performance-with-liquid-information 
++ .World Bank Open Government Data Toolkit - http://opendatatoolkit.worldbank.org/en/

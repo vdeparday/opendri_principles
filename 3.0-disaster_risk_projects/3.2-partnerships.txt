@@ -1,0 +1,6 @@
+## 7. Develop Strong Institutional Partnerships
+Reducing climate and disaster risk and building resilience is a challenge that involves all of society. It's therefore desirable to treat the process of creating, managing, and using risk information the same. The design of a successful and sustainable open data project requires the development of strong networks of local partners. Potential partners include different branches of government, community groups, universities, and the private sector. In some countries, international programs such as the Open Government Partnership can also provide additional resources or legitimacy to a local open data project. Partnerships can help facilitate the transparent communication of activities, sharing of knowledge and results, and coordination that can reduce duplication of efforts across different sectors of society. Such practices help to build the necessary consensus for undertaking collective action related to reducing risk and preparing for and responding to disasters. 
+///_Example: Sri Lanka OpenDRI Project///
+///Further Reading:///
++ .Open Government Partnership - http://www.opengovpartnership.org 
++ .Climate Services for Resilient Development Partnership - https://www.whitehouse.gov/the-press-office/2015/06/09/fact-sheet-launching-public-private-partnership-empower-climate-resilien 

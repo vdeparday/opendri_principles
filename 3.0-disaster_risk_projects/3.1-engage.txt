@@ -1,0 +1,8 @@
+## 6. Engage user communities  
+During the planning phases of an open data project, program designers should identify target user groups for risk information and understand their needs. Engaging potential users to understand their priorities and what they would find more useful prior to project implementation can help prevent challenges from occurring later on. Target groups may include governments, local NGOs, universities and the scientific community, and development partners as well as existing open data and technology communities in the area where the project will take place. Once the data is released, it is good practice to support the activity and growth of activities and projects that can use the newly opened data. 
+///Example: Code for Resilience///
+Code for Resilience is an international fellowship program that supports partnership between technologists and governments to meet the challenges of building resilience to disasters and the impacts of climate change in the 21st century. Code for Resilience Fellows spend 6 months working with governments on open source software solutions to address problems identified by local stakeholders. These extended partnerships ensure opportunities for iterative solution design and that risk information can be made actionable for local decision-makers.
+///Further Reading:/// 
++ .Code for Resilience - http://codeforresilience.org/ 
++ .User Centered Design Basics - http://www.usability.gov/what-and-why/user-centered-design.html  
++ .Build With Not For- http://www.buildwith.org, a guide to civic technology by Laurenellen McCann

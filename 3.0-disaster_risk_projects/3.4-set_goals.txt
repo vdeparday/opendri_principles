@@ -1,0 +1,7 @@
+## 9. Set clear, long-term goals
+Investing in open data can result in many benefits, including increased public participation in decision-making, decreasing duplication of investment in data and information products, encouraging peer-review of science, and facilitating non-traditional partnerships. Indeed, open data projects should be designed to encourage as many of these things. However, it is important that specific and measurable goals be defined at the start of the project. These may change over the course of the project as the result of new learnings or newly articulated priorities, but having clearly defined and agreed upon targets prior to initiating activities will help manage expectations and support clear communication between project partners and stakeholders.
+Further, it is important to recognize that open data projects are fundamentally about affecting behavior and relationships. Meaningful change related institutional and individual interaction with risk information is a significant undertaking. Too often, interventions in this space take the form of short, discrete activities without a broader vision or operational theory of change. Sustained engagement is required for open data projects to achieve success.
+///Example: OpenDRI Analysis Tool///	
+///Further Reading:///
++ .World Bank Open Data Readiness Assessment: http://opendatatoolkit.worldbank.org/en/odra.html 
++ .Open Data Watch: Monitoring: http://opendatawatch.com/monitoring/ 

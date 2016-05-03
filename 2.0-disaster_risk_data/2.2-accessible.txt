@@ -1,0 +1,19 @@
+## 2. Accessible, Licensed, & Documented
+Open data should be released in a manner that facilitates the widest use possible. There are a number of best practices established by the open data community that provide useful guidance to OpenDRI projects. These practices relate to accessibility, licensing, and documentation. Taking each in turn:
+///Accessibility:/// 
+In this context, accessible data is data that is released in a machine-readable format, structured in consistent and meaningful way, and in a standard data format. Essentially, users must be able to access the data and easily bring it into their own analysis or visualization tools. Tables, charts, or maps embedded in PDFs and Word documents, for example, would therefore not be considered open data. The following recommendations provide guidance on how to ensure open data can be made as accessible as possible:
++ .Release downloadable data in non-proprietary machine-readable formats. For tabular data, this might include .csv files. Spatial data could include shapefiles, geojson, geotiff or any of the formats recommended by the Open Geospatial Consortium (OGC).
++ .Data provided online should have permanent, individual web addresses where users can download data and access relevant documentation including standard metadata.
++ .Data owners should also provide well-documented Application Programming Interfaces (API) that software developers can use to incorporate the data into their tools and applications 
+///Licensing:///
+It is necessary that open data be distributed along with a reference to the termsthat governs its usage. For many OpenDRI projects that involve spatial data, a short sentence outlining the license and providing a link to online documentation can be included within the“Licensing” and/or “Use Constraints” sections of ISO 19115-compliant metadata (see next section). For example:
+“This data is released under a Creative Commons (CC-BY) License which provides for fair use, requiring only XYZ be attributed as the initial creator.  For more information, refer to: http://creativecommons.org/licenses/by/3.0”
+Clear licensing of datasets is necessary to protect both the data owner and potential users. Releasing data with clearly stated licensing and terms of use reduces uncertainty and thus increases accessibility for new users. Many data providers are drawn towards non-commercial clauses, fearing that others will resell the data they are making available for free. This is a mistake. First, there’s no viable business model in selling data that is open. More importantly, commercial use can be beneficial, and include activities such as repackaging, analysis, or custom visualization.
+///Documented:///
+Users need to understand what this data is and where it came from in order to make effective use of it. Documentation that describes the data source, how it was created, and provides information facilitates peer review of any analysis conducting using the data, which is fundamental to good science.  There are a number of standards that guide the production of such documentation, usually referred to as metadata, including OGC, ISO 19115, and Dublin Core.
+///Example: GeoNode software/// 
+GeoNode is an open-source software platform that is frequently used as part of OpenDRI projects to manage and share geospatial data. By default, each dataset uploaded to a GeoNode has its own unique web-address where it can be accessed, along with standard metadata. All data stored in GeoNode can be accessed through documented APIs as well as downloaded in common formats including GeoTiffs and Shapefiles.
+///Further Reading:///
++ .Sunlight Foundation’s Open Data Policy Guidelines: http://sunlightfoundation.com/opendataguidelines/ 
++ .GeoNode Software: http://geonode.org 
++ .Guide to choosing an Open Data license: http://opendefinition.org/guide/data/ 

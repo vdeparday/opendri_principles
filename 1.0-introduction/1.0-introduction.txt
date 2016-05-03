@@ -1,0 +1,17 @@
+Started in 2011 by GFDRR, the Open Data for Resilience Initiative (OpenDRI) applies the concepts of the global open data movement to the challenges of reducing vulnerability to natural hazards and the impacts of climate change. OpenDRI supports World Bank Regional Disaster Risk Management Teams to build capacity and long-term ownership of open data projects with client countries that are tailored to meet specific needs and goals of stakeholders.
+To increase public access to risk information, OpenDRI engages in dialogue with governments on the value of open data through working groups, pilot projects that evolve into long-term locally owned open data projects. OpenDRI provides technical solutions and assistance for the project implementation through an **Open Data Platform**. Open Data Platforms allow for storing, analyzing and managing data that is critical for planning, policies and decision-making. Partners can collate and share layers of geospatial data, combine those layers into visualizations and exchange both the raw data and collaborative maps. 
+To engage communities in the creation of accurate and timely data about the rapidly evolving urban and rural environments in the place they live, OpenDRI works with governments and local communities to utilize simple, collaborative, crowdsourcing mapping tools through **Community Mapping.** OpenDRI’s community mapping projects mobilize the residents of a place to collect and maintain geospatial data about their built environment and its exposure to natural hazards, providing a dynamic source of infrastructure and risk information. Mapping projects also take advantage of remote mapping and crowdsourcing by engaging the international community through partnerships with development organizations and universities. 
+To communicate risk more effectively to decision-makers in planning, preparedness and response activities, OpenDRI works with governments and partners through **Risk Communication and Analysis**. Risk information needs to be fit-for-purpose and targeted towards the decision-makers who rely on it for guidance, yet communicating this information in clear and actionable ways is challenging. OpenDRI has supported the development of a flexible tool that can provide targeted impact calculations to disaster scenarios, These insights help governments on planning, preparedness and policy decisions.
+## OpenDRI Principles
+### Disaster risk data should be:
+1. .Open by default
+2. .Accessible, Licensed, & Documented
+3. .Co-created
+4. .Locally Owned
+5. .Communicated in ways that meet needs of the users
+
+### Open Data projects should be designed to:
+6. .Engage communities
+7. .Build Strong Institutional Partnerships
+8. .Prioritize Open Source
+9. .Set clear, long-term goals
