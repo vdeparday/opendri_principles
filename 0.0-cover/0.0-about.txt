@@ -1,2 +1,5 @@
+///About OpenDRI/// The Open Data for Resilience Initaitive (OpenDRI) is a project of the  Global Facility for Disaster Reduction and Recovery (GFDRR). Launched in 2011, OpenDRI seeks to bring the philosophies and practices of the global open data movement to bear on the challenges of reducing vulnerability to natural hazards and the impacts of climate change. OpenDRI has been active in over 35 countries around the world in efforts to improve the sharing, collection, and communication of risk information.
+
+
 ///About GFDRR/// The Global Facility for Disaster Reduction and Recovery (GFDRR) helps high-risk, low-income developing counties better understand and reduce their vulnerabilities to natural hazards, and adapt to climate change. Working with over 300 national, community level, and international partners GFDRR provides grant financing, on-the-ground technical assistance helping mainstream disaster mitigation policies into country level strategies, and thought leadership on disaster and climate resilience issues through a range of knowledge sharing activities. GFDRR is managed by the World Bank and funded by 21 donor partners.
 **www.gfdrr.org** 
