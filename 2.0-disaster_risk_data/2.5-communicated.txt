@@ -1,3 +1,3 @@
-## 5. Communicated in ways that meet needs of diverse users
+### 5. Communicated in ways that meet needs of diverse users
 Risk information is complex and, in most cases, created by and for technical experts in the area of disaster risk management. Yet the hazards and vulnerabilities that risk data seeks to describe are of concern to everyone. There are an increasing number of tactics that are being developed to include the public in informed policy and planning decisions related to risk. Where public dollars are going to be invested in the creation of risk information, OpenDRI seeks to explore ways for this information to be accessible and relevant to as wide an audience as possible. Innovations in the areas of data visualization or serious games, and software tools developed for specific use-cases and audiences can provide new ways for the public to engage with risk science.
 ///Example: DRFI tool? Flood Visualization? OpenDRI Serious Game?///

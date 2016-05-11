@@ -1,4 +1,4 @@
-## 2. Accessible, Licensed, & Documented
+### 2. Accessible, Licensed, & Documented
 Open data should be released in a manner that facilitates the widest use possible. There are a number of best practices established by the open data community that provide useful guidance to OpenDRI projects. These practices relate to accessibility, licensing, and documentation. Taking each in turn:
 ///Accessibility:/// 
 In this context, accessible data is data that is released in a machine-readable format, structured in consistent and meaningful way, and in a standard data format. Essentially, users must be able to access the data and easily bring it into their own analysis or visualization tools. Tables, charts, or maps embedded in PDFs and Word documents, for example, would therefore not be considered open data. The following recommendations provide guidance on how to ensure open data can be made as accessible as possible:
