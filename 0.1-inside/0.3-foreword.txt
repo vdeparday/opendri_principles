@@ -1,0 +1,16 @@
+The foundation of successful disaster risk management is information. Yet valuable data is often fragmented across government institutions and the private sector or lost in file formats that don’t facilitate reuse.  Furthermore, weak data sharing arrangements between different actors result in high transaction costs and limit the participation of new communities on the challenge of understanding and managing disaster and climate risk.  Open data can contribute to solving these problems but we need to do a better job of making the case for it so that we can create lasting change. 
+
+Affected populations are the first responders during any emergency, but these citizens are also involved in everyday decisions and policies that influence the risk.  We have partnered with the OpenStreetMap community to facilitate participatory mapping processes to help capture local stakeholders knowledge about critical assets in their neighborhoods so that this information can be front and center on the management of disaster risk.  
+
+Risk information can be highly technical and is quite often difficult to use, interpret or act upon by decision-makers or the public.  InaSafe, developed in partnership with AusAID and the Indonesian government, is one tool that helps partners in government make use of available data.  However, we need more of open-source tools that can be customized for end-user needs.  We can also learn from communication and behavioral sciences as we seek to design and develop new solutions in this space.
+
+In the end, all disaster risk management is local.  Our efforts to create global models, partnerships, and solutions can fail if they marginalize or disempower local actors or ignore the contexts and processes in which decision-making related to risk occurs.  Government counterparts, universities and civil society organizations in the developing countries are our first clients and ultimately the individuals who will make any disaster risk management project successful.
+
+Since launching the Open Data Resilience Initiative (OpenDRI) in July of 2011 we have worked in over 35 countries to engage new communities in the challenges of disaster risk management (DRM) and building resilience to climate change. The principles, case studies, and resources in this Policy Note represent our best attempt to document what works, lessons learned, and sources of inspiration that have guided the OpenDRI project over the past five years. We hope that its publication will stimulate discussion, provoke critical reflection, and contribute to a more safe and resilient society.
+
+
+Dr. Alanna Simpson
+Team Leader, Innovation Lab
+Global Facility for Disaster Reduction and Recovery
+World Bank
+
