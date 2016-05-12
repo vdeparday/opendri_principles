@@ -6,7 +6,7 @@ In this context, accessible data is data that is released in a machine-readable 
 + .Data provided online should have permanent, individual web addresses where users can download data and access relevant documentation including standard metadata.
 + .Data owners should also provide well-documented Application Programming Interfaces (API) that software developers can use to incorporate the data into their tools and applications 
 ///Licensing:///
-It is necessary that open data be distributed along with a reference to the termsthat governs its usage. For many OpenDRI projects that involve spatial data, a short sentence outlining the license and providing a link to online documentation can be included within the“Licensing” and/or “Use Constraints” sections of ISO 19115-compliant metadata (see next section). For example:
+It is necessary that open data be distributed along with a reference to the terms that governs its usage. For many OpenDRI projects that involve spatial data, a short sentence outlining the license and providing a link to online documentation can be included within the“Licensing” and/or “Use Constraints” sections of ISO 19115-compliant metadata (see next section). For example:
 “This data is released under a Creative Commons (CC-BY) License which provides for fair use, requiring only XYZ be attributed as the initial creator. For more information, refer to: http://creativecommons.org/licenses/by/3.0”
 Clear licensing of datasets is necessary to protect both the data owner and potential users. Releasing data with clearly stated licensing and terms of use reduces uncertainty and thus increases accessibility for new users. Many data providers are drawn towards non-commercial clauses, fearing that others will resell the data they are making available for free. This is a mistake as there is no viable business model in reselling data that is open. More importantly, commercial use can be beneficial, and include activities such as repackaging, analysis, or custom visualization.
 ///Documented:///
@@ -16,4 +16,4 @@ GeoNode is an open-source software platform that is frequently used as part of O
 ///Further Reading:///
 + .Sunlight Foundation’s Open Data Policy Guidelines: http://sunlightfoundation.com/opendataguidelines/ 
 + .GeoNode Software: http://geonode.org 
-+ .Guide to choosing an Open Data license: http://opendefinition.org/guide/data/ 
++ .Guide to choosing an Open Data license: http://opendatatoolkit.worldbank.org/en/essentials.html#licenses http://opendefinition.org/guide/data/ 
