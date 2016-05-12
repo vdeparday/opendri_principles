@@ -8,5 +8,6 @@ Several national government agencies including the Disaster Management Center, t
 Community mapping efforts in several parts of the country have also contributed to the development of new risk information, which is also made available through RiskInfo and has created opportunities to broaden the number of partners involved in the project, including universities, local community groups, and technology organizations. Over 60,000 buildings including location and structural characteristics have been mapped using the OpenStreetMap platform through this work. International coordination with groups such as the State Department's Humanitarian Information Unit (HIU) and the Humanitarian OpenStreetMap team helped to secure up-to-date imagery and quality assurance of the incoming data. OpenDRI Sri Lanka’s success in developing partnerships across ministries, at various levels of government, and with non-governmental actors has helped to contribute to sustainable, broad-based, improvements in how risk information is managed and used in the country.
 
 ///Further Reading:///
-+ .Open Government Partnership - http://www.opengovpartnership.org 
++ .Open Government Partnership - http://www.opengovpartnership.org
++ .Open Data Charter - http://opendatacharter.net/
 + .Climate Services for Resilient Development Partnership - https://www.whitehouse.gov/the-press-office/2015/06/09/fact-sheet-launching-public-private-partnership-empower-climate-resilien 
