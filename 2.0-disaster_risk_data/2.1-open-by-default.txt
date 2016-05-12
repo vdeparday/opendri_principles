@@ -8,3 +8,4 @@ In 2010, the World Bank announced an Open Data Policy and made data contained in
 + .Why “set the default to open”? Because information is a public good. By the Sunlight Foundation:http://theodi.org/guides/impacts-of-non-open-licenses 
 + .Some of the Impacts of Non-Open License by the Open Data Institute: http://theodi.org/guides/impacts-of-non-open-licenses 
 + .United States White House Executive Order: Making Open and Machine Readable the New Default for Government Information - https://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-
++ .Open Data: Unlocking Innovation and Performance With Liquid Information - http://www.mckinsey.com/business-functions/business-technology/our-insights/open-data-unlocking-innovation-and-performance-with-liquid-information 
