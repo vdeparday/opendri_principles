@@ -6,3 +6,4 @@ Code for Resilience is an international fellowship program that supports partner
 + .Code for Resilience - http://codeforresilience.org/ 
 + .User Centered Design Basics - http://www.usability.gov/what-and-why/user-centered-design.html  
 + .Build With Not For- http://www.buildwith.org, a guide to civic technology by Laurenellen McCann
++ .Digital Development Principles: http://digitalprinciples.org/
